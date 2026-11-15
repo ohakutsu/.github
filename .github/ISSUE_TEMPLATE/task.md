@@ -1,9 +1,10 @@
 ---
-name: 作業
-about: 背景と完了状態を書いて作業を切る
+name: General
+about: "デフォルトのIssueテンプレート"
+title: ""
+labels: ""
+assignees: ""
 ---
-
-<!-- タイトルは「何の 何を どうする」。期日があるときは先頭に [YYYY/MM/DDまで] -->
 
 ## Why
 
